@@ -16,6 +16,11 @@
 </head>
 <body class="bg-white flex flex-col items-center justify-center min-h-screen m-0 p-0">
     <h1 class="font-montserrat text-2xl md:text-2xl font-semibold mb-2 text-gray-800">Coming Soon</h1>
-    <img src="/logos/logo1.jpeg" alt="Logo" class="max-w-3xl max-h-3xl object-contain" />
+    <img 
+      src="/logos/logo1.jpeg" 
+      alt="Logo" 
+      class="w-3/4 max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg xl:max-w-2xl object-contain"
+      style="height:auto;"
+    />
 </body>
 </html>
